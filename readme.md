@@ -11,3 +11,5 @@ merge
 rebase
 rebase
 rebase
+squash
+
